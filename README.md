@@ -1,8 +1,14 @@
-# React + Vite
+# Projeto TodoList
+🚀 Organize suas tarefas com facilidade com o Projeto Todo List! 📝✅
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ficar por dentro das tarefas diárias nunca foi tão fácil! Apresento o Projeto Todo List, desenvolvido com ReactJS, Vite e CSS Modules, oferecendo uma experiência de gerenciamento de tarefas simplificada e eficiente. E o melhor? É responsivo, se adaptando perfeitamente a qualquer dispositivo! 📱💻
 
-Currently, two official plugins are available:
+Recursos Destacados:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Adição Rápida de Tarefas: Insira novas tarefas de forma intuitiva e sem complicações.
+Marcação de Conclusão: Mantenha o controle do seu progresso marcando as tarefas concluídas com um simples clique.
+Filtragem Inteligente: Organize suas tarefas facilmente com a filtragem por status.
+Deploy na Vercel: Aproveite a rapidez e a confiabilidade do deploy na Vercel para garantir que seu projeto esteja sempre disponível para uso.
+Faça parte da revolução da produtividade! Experimente o Projeto Todo List hoje mesmo. 💼🌟 #ReactJS #Vite #CSSModules #Produtividade #GerenciamentoDeTarefas #Vercel
+
+#Link do Deploy na vercel - https://todo-list-react-rouge-ten.vercel.app/
